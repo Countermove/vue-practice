@@ -47,11 +47,6 @@
     </h2>
   </div>
   <!-- // -->
-  <div>
-    <li>
-      <input type="text" v-model="user.name" />
-    </li>
-  </div>
 </template>
 
 <script>

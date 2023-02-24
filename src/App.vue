@@ -13,4 +13,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+body {
+  width: 100%;
+}
+</style>
